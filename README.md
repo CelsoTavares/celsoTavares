@@ -1,7 +1,10 @@
-### 👋 Hi, Welcome, I'm Celso Tavares.
+#  👋 Hi, Welcome, I'm Celso Tavares.
 
-## 🌐 Tecnologias
+<div>
 </div>
+
+## 🧑🏻‍💻 Tecnologias
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
