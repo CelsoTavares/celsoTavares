@@ -1,8 +1,6 @@
 #  👋 Hi, Welcome, I'm Celso Tavares.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CelsoTavares&show_icons=true&theme=aura)](https://github.com/CelsoTavares/github-readme-stats&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoTavares&layout=compact&show_icons=true&theme=aura)](https://github.com/CelsoTavares/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CelsoTavares&show_icons=true&theme=aura)](https://github.com/CelsoTavares/github-readme-stats&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoTavares&layout=compact&show_icons=true&theme=aura)](https://github.com/CelsoTavares/github-readme-stats)
 
 ## 🧑🏻‍💻 Tecnologias 
 
