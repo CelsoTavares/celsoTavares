@@ -1,6 +1,6 @@
 #  👋 Hi, Welcome, I'm Celso Tavares.
 
-#### 😄 Here you will find some of my trajectoryU and evolution as a Dev, from basic to advanced.
+#### 😄 Here you will find some of my trajectory and evolution as a Dev, from basic to advanced.
 
 ## 🤔 How do I study?
 #### 💬 At the moment I'm focused on the front end, *I study through books, website, videos, surveys, free and paid courses, with practical examples, creating a project or through some challenge.*
