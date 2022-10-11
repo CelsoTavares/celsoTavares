@@ -1,10 +1,6 @@
 #  👋 Hi, Welcome, I'm Celso Tavares.
 
-#### 😄 Here you will find some of my trajectory and evolution as a Dev, from basic to advanced.
-
-## 🤔 How do I study?
-#### 💬 At the moment I'm focused on the front end, *I study through books, website, videos, surveys, free and paid courses, with practical examples, creating a project or through some challenge.*
-#### I always do summaries to review the content and try to keep everything well organized.
+#### 😄 Here you will find some of my trajectory and evolution as a Dev.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CelsoTavares&show_icons=true&theme=dracula)](https://github.com/CelsoTavares/github-readme-stats&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoTavares&layout=compact&show_icons=true&theme=dracula)](https://github.com/CelsoTavares/github-readme-stats)
 
