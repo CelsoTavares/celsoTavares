@@ -6,7 +6,7 @@
 #### 💬 At the moment I'm focused on the front end, *I study through books, website, videos, surveys, free and paid courses, with practical examples, creating a project or through some challenge.*
 #### I always do summaries to review the content and try to keep everything well organized.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CelsoTavares&show_icons=true&theme=dracula)](https://github.com/CelsoTavares/github-readme-stats&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoTavares&layout=compact&show_icons=true&theme=radical)](https://github.com/CelsoTavares/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CelsoTavares&show_icons=true&theme=dracula)](https://github.com/CelsoTavares/github-readme-stats&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoTavares&layout=compact&show_icons=true&theme=dracula)](https://github.com/CelsoTavares/github-readme-stats)
 
 ## 🧑🏻‍💻 Tecnologias 
 
